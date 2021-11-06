@@ -1,2 +1,3 @@
-# Smart-City
-A simulation of a typical smart city made using arduino and some important components
+# Smart City
+#### Automating solutions for your city
+Automation is the solution towards achieving an environment with minimum human intervention, when it comes to reducing labor in essential day-to-day activities. The various specialized appliances like motion detectors, sensors, transducers, IR sensors, etc. in a smart city, which can be controlled by Arduino UNO and related specialized components & devices. The smart city will essentially have 4 components, which are smart street lamp, garbage level indicator, smart delivery truck & moisture sensing apparatus for detecting humidity and water. All these will be controlled by compiled programs and the hardware & software interaction.
